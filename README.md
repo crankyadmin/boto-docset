@@ -3,7 +3,7 @@ boto-docset
 
 Boto docset for use with Dash on Mac OS X. 
 
-Current version: 2.5.2
+Current version: 2.6.0
 
 to add to [Dash](http://itunes.apple.com/gb/app/dash-docs-snippets/id458034879?mt=12):
 
